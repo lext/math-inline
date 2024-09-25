@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Mathinline",
   "version": "1.0",
-  "description": "An extension that helps one to wrap text into inline LaTeX math. ",
+  "description": "An extension that helps one to wrap text into inline LaTeX math. Just press Cmd+E on Mac or Win+E on Windows. The E can be either lowercase or capital.  ",
   "permissions": [
     "activeTab",
     "scripting",

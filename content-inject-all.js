@@ -2,7 +2,7 @@ console.log("JS injected");
 
 document.addEventListener('keydown', async function(event) {
 
-  if (event.metaKey && event.key.toLowerCase() === 'm') {
+  if (event.metaKey && event.key.toLowerCase() === 'e') {
     // Get the selected text from the web page
     // Get the selected text from the web page
     const selection = window.getSelection();
